@@ -1,0 +1,19 @@
+{
+    "name": "linero/trycomposer",
+    "description": "my first php composer library",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Linero\\Trycomposer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "nero li",
+            "email": "nero.li@acutech.io"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
