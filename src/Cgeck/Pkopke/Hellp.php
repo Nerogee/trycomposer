@@ -1,6 +1,6 @@
 <?php
 
-namespace Cegck\Pkopke;
+namespace Cgeck\Pkopke;
 
 class Hellp {
     public function sai() {
