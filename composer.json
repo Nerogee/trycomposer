@@ -5,7 +5,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Linero\\Trycomposer\\": "src/Cegeck/Pkopke"
+            "Linero\\Trycomposer\\": "src/Cgeck/Pkopke"
         }
     },
     "authors": [
