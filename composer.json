@@ -1,11 +1,11 @@
 {
-    "name": "check/people",
+    "name": "checknero/people",
     "description": "my first php composer library",
     "type": "library",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Check\\People\\": "src/Check/People"
+            "Check\\People\\": "src/Checknero/People"
         }
     },
     "authors": [

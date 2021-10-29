@@ -1,6 +1,6 @@
 <?php
 
-namespace Check\People;
+namespace Checknero\People;
 
 class Hello {
     public function say() {
